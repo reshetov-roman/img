@@ -175,7 +175,7 @@ function onYouTubeIframeAPIReady() {
       slidesPerView: 1,
       centeredSlides: true,
       loop: false,
-      speed: 400,
+      speed: 700,
       initialSlide: 2,
       navigation: {
         nextEl: '.swiper-button-next-f1',
